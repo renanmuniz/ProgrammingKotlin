@@ -1,4 +1,4 @@
-package Cap1
+package cap1
 
 import java.io.File
 import java.lang.Exception
